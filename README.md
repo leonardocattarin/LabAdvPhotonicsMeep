@@ -1,2 +1,2 @@
 # LabAdvPhotonicsMeep
-Repository for the simulations written during the laboratory of advanced photonics course
+Repository for the simulations written for the Laboratory of Advanced Photonics Report
